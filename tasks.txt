@@ -1,0 +1,4 @@
+have a mutable list of recipients
+have an editor for email body and allow file attachments
+have a list of email sender accounts which get used in round robin fashion with size 50
+show status of each email
